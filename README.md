@@ -1,11 +1,11 @@
-📝 Blog App
+# 📝 Blog App
 A full-stack Blog Application built with:
 
 Backend → Python, Django, Django REST Framework (DRF)
 
 Frontend → React.js
 
-🚀 Features
+# 🚀 Features
 User Authentication (Register / Login / Logout)
 
 Create, Edit, and Delete Blog Posts
@@ -18,7 +18,7 @@ Responsive Frontend with React.js
 
 RESTful API for Blog functionality
 
-🏗️ Project Structure
+# 🏗️ Project Structure
 bash
 Copy
 Edit
@@ -33,8 +33,8 @@ blog-app/
 │   ├── public/           
 │   ├── package.json
 └── README.md
-🛠️ Tech Stack
-Backend
+# 🛠️ Tech Stack
+# Backend
 Python 3.x
 
 Django 4.x
@@ -45,16 +45,15 @@ djangorestframework-simplejwt (JWT Authentication)
 
 SQLite3 (Default — can be switched to PostgreSQL)
 
-Frontend
+# Frontend
 React.js (React 18)
 
 Axios (for API calls)
 
 React Router DOM
 
-Tailwind CSS or Bootstrap (optional)
 
-⚙️ Setup Instructions
+# ⚙️ Setup Instructions
 1️⃣ Backend (Django + DRF)
 Clone the repo and navigate to backend:
 bash
