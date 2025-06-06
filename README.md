@@ -19,20 +19,22 @@ Responsive Frontend with React.js
 RESTful API for Blog functionality
 
 # 🏗️ Project Structure
-bash
-Copy
-Edit
-blog-app/
-├── backend/              # Django + DRF project
-│   ├── blog/             # Django app for blog models and APIs
-│   ├── users/            # Django app for user management
-│   ├── manage.py         
-│   ├── requirements.txt
-├── frontend/             # React.js frontend project
-│   ├── src/              
-│   ├── public/           
-│   ├── package.json
-└── README.md
+```
+  bash
+  Copy
+  Edit
+  blog-app/
+  ├── backend/              # Django + DRF project
+  │   ├── blog/             # Django app for blog models and APIs
+  │   ├── users/            # Django app for user management
+  │   ├── manage.py         
+  │   ├── requirements.txt
+  ├── frontend/             # React.js frontend project
+  │   ├── src/              
+  │   ├── public/           
+  │   ├── package.json
+  └── README.md
+  ```
 # 🛠️ Tech Stack
 # Backend
 Python 3.x
